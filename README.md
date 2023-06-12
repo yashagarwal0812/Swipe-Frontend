@@ -64,5 +64,5 @@ For any questions or inquiries, please feel free to reach out to me on LinkedIn 
 
 Let's celebrate innovation and inspire each other in the world of payment gateways! 🚀✨
 
-[![LinkedIn](https://example.com/linkedin.png)](https://www.linkedin.com/in/yash-agarwal-b00b4b217)
+[![LinkedIn](https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg)](https://www.linkedin.com/in/yash-agarwal-b00b4b217)
 [![Email](https://example.com/email.png)](mailto:yashagarwal827327@gmail.com)
