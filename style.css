@@ -1035,7 +1035,7 @@ p {
     /* NAVBAR */
 
     .navbar {
-        max-resolution: 0 0 var(--spacing-lg) 0;
+        margin: 0 0 var(--spacing-lg) 0;
     }
 
     /* HERO STYLES */
