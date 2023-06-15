@@ -950,6 +950,18 @@ p {
         margin: -20px 0 0 0;
     }
 
+    #credit-card {
+        border-radius: 10px;
+    }
+
+    #slack-invoice {
+        border-radius: 10px;
+    }
+
+    #dash {
+        border-radius: 10px;
+    }
+
     /* UNIFIED PLATFORM SECTION */
 
     .unified-platform-section h2 {
@@ -1060,6 +1072,18 @@ p {
 
     .partners-grid {
         grid-template-columns: 1fr 1fr;
+    }
+
+    #credit-card {
+        border-radius: 5px;
+    }
+
+    #slack-invoice {
+        border-radius: 5px;
+    }
+
+    #dash {
+        border-radius: 5px;
     }
 
     /* UNIFIED PLATFORM SECTION */
